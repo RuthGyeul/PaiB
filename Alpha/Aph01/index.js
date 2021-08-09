@@ -9,6 +9,11 @@ const client = new Discord.Client();
 
 const TOKEN = client.config.token;
 const PREFIX = client.config.prefix;
+client.errI = require('./utils/error');
+client.color = require('./configs/color.js');
+client.config = require('./configs/config.js');
+client.emote = require('./configs/emoji.js');
+client.commands = new Discord.Collection();
 
 var gch = new GIGacha();
 
