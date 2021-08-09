@@ -1,0 +1,13 @@
+%register - Register your account for pull
+
+%pull [C/W/S] - Pull 10 in banner c - character, w - weapon, s -standard
+
+%setpity [C/W/S] [Number] [Y] - set custom pity for a specific banner. Put y if your next 5 star is guaranteed featured character
+
+%summ - See your pull summary 
+
+%reset - Reset your pull records
+
+%abyss - See how much time left before abyss reset (still editing)
+
+%resin [Number1] [Number2] - See how much time your resin will be at Number2 (160 is default for Number2)
