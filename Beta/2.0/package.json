@@ -1,0 +1,26 @@
+{
+  "name": "PaiB",
+  "version": "1.0.0",
+  "description": "Discord PaiB Bot for help Genshin Impact users",
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "discord-reply": "^0.1.2",
+    "discord.js": "^12.5.3",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-react-views": "^0.11.0",
+    "moment": "^2.29.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "ytdl-core": "^4.4.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Rutheon#6205",
+  "license": "ISC"
+}
